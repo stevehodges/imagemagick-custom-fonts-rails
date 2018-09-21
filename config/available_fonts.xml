@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<typemap>
+
+  <type
+     format="ttf"
+     name="GotischWeissUNZ1AI"
+     fullname="GotischWeissUNZ1A-Italic"
+     family="Gotisch Weiss UNZ1A"
+     glyphs="/arches/localstake/.fonts/Gotisch Weiss b.ttf"
+     />
+
+</typemap>

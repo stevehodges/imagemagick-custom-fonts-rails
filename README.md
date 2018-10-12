@@ -1,4 +1,4 @@
-# Sample Rails app to use custom fonts in ImageMagick
+# Sample Rails settings to use custom fonts in ImageMagick on Heroku
 
 If you use ImageMagick and output text in images, you probably want to use custom fonts. This repo contains sample code that I use to manage fonts, test them with ImageMagick locally on my Mac, and use them in production on Heroku.
 
